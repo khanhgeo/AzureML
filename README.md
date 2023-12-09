@@ -1,1 +1,1 @@
-This repo contains machine learning projects that were implemented and deployed on the Azure Machine Learning.
+This repo contains end-to-end machine learning projects implemented and deployed on Azure Machine Learning.
